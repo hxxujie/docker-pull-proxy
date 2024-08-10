@@ -1,15 +1,1 @@
 langgenius/dify-api:0.6.11 registry.cn-beijing.aliyuncs.com/dify_docker/dify-api:0.6.11
-
-langgenius/dify-web:0.6.11 registry.cn-beijing.aliyuncs.com/dify_docker/dify-web:0.6.11
-
-postgres:15-alpine registry.cn-beijing.aliyuncs.com/dify_docker/postgres:15-alpine
-
-redis:6-alpine registry.cn-beijing.aliyuncs.com/dify_docker/redis:6-alpine
-
-semitechnologies/weaviate:1.19.0 registry.cn-beijing.aliyuncs.com/dify_docker/weaviate:1.19.0
-
-langgenius/dify-sandbox:0.2.1 registry.cn-beijing.aliyuncs.com/dify_docker/dify-sandbox:0.2.1
-
-ubuntu/squid:latest registry.cn-beijing.aliyuncs.com/dify_docker/squid:latest
-
-nginx:latest registry.cn-beijing.aliyuncs.com/dify_docker/nginx:latest
